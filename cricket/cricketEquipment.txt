@@ -1,0 +1,8 @@
+1. bat
+2. ball
+3. helmet
+4. Cricket gloves
+5. Cricket pads
+6. Cricket shoes
+7. Cricket clothing
+8. Cricket bag
